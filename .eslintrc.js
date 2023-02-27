@@ -1,5 +1,5 @@
 /**
- * eslint config
+ * eslint no rights
  * https://github.com/Sairyss/backend-best-practices#static-code-analysis
  */
 
