@@ -1,5 +1,5 @@
 /**
- * eslint asdqweqeqwe
+ * eslint qwerty
  * https://github.com/Sairyss/backend-best-practices#static-code-analysis
  */
 
