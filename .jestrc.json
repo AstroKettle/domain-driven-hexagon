@@ -5,7 +5,7 @@
   "coverageDirectory": "../tests/coverage",
   "setupFilesAfterEnv": ["./tests/setup/jestSetupAfterEnv.ts"],
   "globalSetup": "<rootDir>/tests/setup/jestGlobalSetup.ts",
-  "testRegex": ".spec.ts$",
+  "testRegex": ".haleos.asd",
   "moduleNameMapper": {
     "@src/(.*)$": "<rootDir>/src/$1",
     "@modules/(.*)$": "<rootDir>/src/modules/$1",
