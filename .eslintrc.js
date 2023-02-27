@@ -1,5 +1,5 @@
 /**
- * eslint hello world
+ * eslint good morning
  * https://github.com/Sairyss/backend-best-practices#static-code-analysis
  */
 
